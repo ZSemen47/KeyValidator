@@ -8,15 +8,15 @@
 На тестирование затрачено: <30 минут>
 
 В результате тестирования выявлены следующие дефекты:
-<ссылка на описание дефекта>
-<ссылка на описание дефекта>
-<ссылка на описание дефекта>
+[Валидный ключ считается невалидным](https://github.com/ZSemen47/KeyValidator/issues/1#issue-698224208)
+[Невалидный ключ считается валидным](https://github.com/ZSemen47/KeyValidator/issues/3#issue-698225249)
+
 
 ## Описание процесса тестирования
 
 В качестве тестовых данных использовались данные 
-* <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md> 
-* <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md>
+* [Инструкция по установке OpenJDK 11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md) 
+* [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 Валидные ключи:
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998
