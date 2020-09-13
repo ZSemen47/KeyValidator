@@ -8,8 +8,8 @@
 На тестирование затрачено: <30 минут>
 
 В результате тестирования выявлены следующие дефекты:
-[Валидный ключ считается невалидным](https://github.com/ZSemen47/KeyValidator/issues/1#issue-698224208)
-[Невалидный ключ считается валидным](https://github.com/ZSemen47/KeyValidator/issues/3#issue-698225249)
+* [Валидный ключ считается невалидным](https://github.com/ZSemen47/KeyValidator/issues/1#issue-698224208)
+* [Невалидный ключ считается валидным](https://github.com/ZSemen47/KeyValidator/issues/3#issue-698225249)
 
 
 ## Описание процесса тестирования
